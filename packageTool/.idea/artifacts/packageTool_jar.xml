@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact name="packageTool:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/packageTool_jar</output-path>
+    <root id="root">
+      <element id="archive" name="packageTool.jar">
+        <element id="module-output" name="packageTool" />
+      </element>
+      <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.8.0-beta0" />
+      <element id="library" level="project" name="Maven: commons-io:commons-io:2.6" />
+      <element id="library" level="project" name="Maven: com.jcraft:jsch:0.1.55" />
+      <element id="library" level="project" name="Maven: ch.ethz.ganymed:ganymed-ssh2:262" />
+      <element id="library" level="project" name="Maven: org.apache.commons:commons-lang3:3.9" />
+      <element id="library" level="project" name="Maven: org.slf4j:slf4j-simple:1.8.0-beta0" />
+    </root>
+  </artifact>
+</component>
